@@ -1,3 +1,2 @@
-# Strapi application
+# Events Backen
 
-A quick description of your strapi application
